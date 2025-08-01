@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "colourpop": {
+      "command": "npx",
+      "args": [
+        "-y", 
+        "mcp-remote@latest",
+        "https://colourpop.com/api/mcp"
+      ]
+    }
+  }
+}
